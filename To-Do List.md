@@ -1,0 +1,82 @@
+## To-Do List
+
+- Practice Max Flow & Min Cut :heavy_check_mark:
+  - Use Scaling Algorithm :heavy_check_mark:
+  - Use Edmonds-Karp Algorithm :heavy_check_mark:
+- Practice Edit Distance :heavy_check_mark:
+- Practice LIS (Longest Increasing Subsequence) :heavy_check_mark:
+- Practice making spanning trees :heavy_check_mark:
+  - Kruskal's Algorithm :heavy_check_mark:
+  - Prim's Algorithm :heavy_check_mark:
+- Practice counting subsets problem :heavy_check_mark:
+- Practice elevator problem :heavy_check_mark:
+- Practice optimal selection :heavy_check_mark:
+- Practice Graph Types :heavy_check_mark:
+- Practice SPFA :heavy_check_mark:
+- Practice Kosaraju's Algorithm :heavy_check_mark:
+- Practice sum knapsack problem :heavy_check_mark:
+- Practice BFS :heavy_check_mark:
+- Practice Bellman-Ford :heavy_check_mark:
+- Practice Dijkstra's :heavy_check_mark:
+- Practice Floyd-Warshall :heavy_check_mark:
+- Practice Edit Distance :heavy_check_mark:
+- Practice Maze :heavy_check_mark:
+- Practice traversing trees (DFS) :heavy_check_mark:
+- Tree DP Practice: Calculating number of nodes in subtree in each node of a rooted tree :heavy_check_mark:
+- Tree DP Practice: longest path from node to leaf :heavy_check_mark:
+- Practice Counting Subgrids :heavy_check_mark:
+- Find certain nodes in DAGs :heavy_check_mark:
+- Practice 2SAT Problem :heavy_check_mark:
+  - Practice generating possible solutions :heavy_check_mark:
+- Practice calculating a tree's diameter using dp :heavy_check_mark:
+- Practice 0-1 Knapsack Problem :heavy_check_mark:
+- Practice calculating a tree's diameter using dfs :heavy_check_mark:
+- Practice 2D Prefix Array :heavy_check_mark:
+- Practice all longest paths in a tree :heavy_check_mark:
+- Count number of paths in a DAG :heavy_check_mark:
+- Create DAG from Dijkstra's Algorithm :heavy_check_mark:
+- Practice succ(x, k) in O(log k) time :heavy_check_mark:
+- Practice cycle detection in successor graph (Floyd's Algorithm) :heavy_check_mark:
+- Practice k-th ancestor in log(n) time :heavy_check_mark:
+- Efficiently Finding LCA (Lowest Common Ancestor) using pointers :heavy_check_mark:
+- Build tree from preorder and inorder :heavy_check_mark:
+- Sum of values in the subtree of a node :heavy_check_mark:
+- Sum of values on a path between two nodes :heavy_check_mark:
+- Efficiently Finding LCA (Lowest Common Ancestor) using Euler Tour Technique :heavy_check_mark:
+- RMQ using sparse table :heavy_check_mark:
+- RMQ using segment tree :heavy_check_mark:
+- Use BIT to keep track of rankings
+- Find nearest smallest element :heavy_check_mark:
+- Find sliding window minimum :heavy_check_mark:
+- Practice Counting Tilings
+- Practice Distances of tree nodes :heavy_check_mark:
+- Tarjan's off-line LCA Algorithm :heavy_check_mark:
+- Verifying Eulerian Paths & Circuits in Directed & Undirected Graphs :heavy_check_mark:
+- Hierholzer's Algorithm (Undirected) :heavy_check_mark:
+- Hierholzer's Algorithm (Directed) :heavy_check_mark:
+- Hamilton Path Dirac's Theorem
+- Hamilton Path Ore's Theorem
+- Constructing Hamilton path backtracking :heavy_check_mark:
+- Constructing Hamilton path dynamic programming :heavy_check_mark:
+  - Generate Solutions (actual paths)
+- Construct De Bruijn Sequences
+- Prime factorization :heavy_check_mark:
+- Calculate Density of Primes
+- Calculate number of factors :heavy_check_mark:
+- Calculate sum of factors
+- Calculate product of factors :heavy_check_mark:
+- Find perfect numbers
+- Segmented Sieve :heavy_check_mark:
+- Sieve of Eratosthenes :heavy_check_mark:
+- Euclid's Algorithm :heavy_check_mark:
+- Euler's totient function
+- Coprime Numbers
+- Modular Arithmetic
+- Fermat's theorem
+- Euler's theorem
+- Modular inverse
+- BIT Range Updates & Range Queries
+- Diophantine Equations
+- Creating state graphs :heavy_check_mark:
+- Grundy's Game
+
